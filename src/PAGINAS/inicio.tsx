@@ -8,10 +8,10 @@ import heroImage from "@/IMAGENS/imagem-principal.jpg";
 // 
 
 const DADOS_DO_GRUPO = {
-  titulo: "TÍTULO DO TRABALHO",                    // ← Troque pelo título
-  descricao: "DESCRIÇÃO BÁSICA DO SEU TRABALHO",   // ← Troque pela descrição
-  materias: ["Programação", "Física", "Robótica"], // ← Troque pelas matérias
-  videoYouTube: "dQw4w9WgXcQ",                     // ← ID do vídeo do YouTube (o que vem depois do v=)
+  titulo: "Tratamento de esgoto e efluentes",                    // ← Troque pelo título
+  descricao: "Este trabalho fala sobre esgoto e efluentes, mostrando de forma simples como são tratados e a importância do descarte correto para evitar a poluição e proteger o meio ambiente.",   // ← Troque pela descrição
+  materias: ["QUÍMICA", "SUSTENTABILIDADE"], // ← Troque pelas matérias
+  videoYouTube: "IAyu0JMb_1U",                     // ← ID do vídeo do YouTube (o que vem depois do v=)
   imagem: "imagem-principal.jpg",                  // ← Nome da imagem na pasta IMAGENS
   nomeProjeto: "Projeto Integrador",               // ← Nome que aparece no topo da página
 };
